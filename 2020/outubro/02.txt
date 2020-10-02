@@ -12,3 +12,13 @@
         App != app
     - Toda vez q for usar Sintax do HTML dentro do ".tsx" (typescript xml), terá de importar:
         > import React from 'react';
+    - JSX = JavaScript + XML
+        > Conteudo HTML dentro do Javascript
+    - ReactDOM.render(componente,elemento_DOM)
+        > renderiza o componente na tela
+        > ReactDOM.render(
+                <React.StrictMode>
+                    <App />
+                </ React.StrictMode>,
+                document.getElementById('id_presente_na_DOM')
+            );
