@@ -1,0 +1,9 @@
+- Install React - Linux
+    - curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+    - sudo apt install nodejs
+    - sudo apt-get update && sudo apt-get install yarn -y
+    - mkdir caminho/do/projeto/
+    - yarn create react-app web --template typescript
+    - cd web/
+    - yarn start
+
