@@ -25,3 +25,9 @@
     - Unidade: REM
         > Unidade usada para aplicações Responsivas
         > Se adapta em todos os dispositivos
+    - Variável Javascript dentro do HTML
+        > variável entre colchetes: " {} "
+        > Ex.:
+            import X fom 'abc';
+            ...
+            <img src={X} />
