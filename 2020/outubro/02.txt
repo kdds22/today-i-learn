@@ -7,3 +7,6 @@
     - cd web/
     - yarn start
 
+- React
+    - Componente SEMPRE de letra Maiuscula no Inicio
+        App != app
