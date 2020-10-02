@@ -22,3 +22,6 @@
                 </ React.StrictMode>,
                 document.getElementById('id_presente_na_DOM')
             );
+    - Unidade: REM
+        > Unidade usada para aplicações Responsivas
+        > Se adapta em todos os dispositivos
