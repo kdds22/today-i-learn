@@ -10,3 +10,5 @@
 - React
     - Componente SEMPRE de letra Maiuscula no Inicio
         App != app
+    - Toda vez q for usar Sintax do HTML dentro do ".tsx" (typescript xml), terá de importar:
+        > import React from 'react';
